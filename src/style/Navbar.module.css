@@ -1,0 +1,22 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  height: 85px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+
+  padding: 0 10px;
+  margin-bottom: 30px;
+}
+
+.menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+}
